@@ -3,9 +3,8 @@
 ## I'm a Front-End Web Developer!!
 
 - 🌱 I’m currently learning everything
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
-
+- 🥅 Contribute more to Open Source projects
+- ⚡ I always try to do something new
 
 ### Connect with me:
 
@@ -43,11 +42,7 @@
   
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=munna-a&card_width=530)](https://github.com/munna-a)
 
-
 [twitter]: https://twitter.com/munnasorder
 [facebook]: https://www.facebook.com/munna.offical/
 [instagram]: https://www.instagram.com/munna_tunna/
 [linkedin]: https://www.linkedin.com/in/munnaoffical/
-
-<br />
-
