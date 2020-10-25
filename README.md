@@ -35,13 +35,13 @@
 
 <br />
 <br />
-
-<img width="550px" alt="Munna Git Hub"  src="https://github-readme-stats.vercel.app/api?username=munna-a&show_icons=true"/>
-
 <br />
+
+<img width="530px" src="https://github-readme-stats.vercel.app/api?username=munna-a&show_icons=true"/>
+
 <br />
   
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=munna-a&card_width=550)](https://github.com/munna-a)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=munna-a&card_width=530)](https://github.com/munna-a)
 
 
 [twitter]: https://twitter.com/munnasorder
