@@ -40,7 +40,7 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munna-a&langs_count=8)](https://github.com/munna-a/munna-a)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=munna-a&card_width=550)](https://github.com/masudrana08/masudrana08)
 
 
 [twitter]: https://twitter.com/munnasorder
