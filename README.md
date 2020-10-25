@@ -36,7 +36,7 @@
 <br />
 <br />
 
-<img width="530px" src="https://github-readme-stats.vercel.app/api?username=munna-a&show_icons=true"/>
+<img width="530px" src="https://github-readme-stats.vercel.app/api?username=munna-a&show_icons=true" border="none"/>
 
 <br />
   
