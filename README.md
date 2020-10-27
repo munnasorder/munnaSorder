@@ -48,4 +48,4 @@
 [twitter]: https://twitter.com/munnasorder
 [facebook]: https://www.facebook.com/munna.offical/
 [instagram]: https://www.instagram.com/munna_tunna/
-[linkedin]: https://www.linkedin.com/in/munnaoffical/
+[linkedin]: https://www.linkedin.com/in/munnaofficial/
