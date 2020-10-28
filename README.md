@@ -14,8 +14,12 @@
 [<img align="left" alt="munna-a | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
+
 ### Others Info:
+
 [<img align="left" alt="munna-a | Resume" width="22px" src="https://i.ibb.co/Mkmms7H/clipart3085721.png" />][resume]
+
 <br />
 
 ### Languages and Tools:
