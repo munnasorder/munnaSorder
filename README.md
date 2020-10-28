@@ -14,6 +14,9 @@
 [<img align="left" alt="munna-a | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+### Others Info
+[<img align="left" alt="munna-a | Resume" width="22px" src="https://i.ibb.co/Mkmms7H/clipart3085721.png" />][resume]
+<br />
 
 ### Languages and Tools:
 
@@ -49,3 +52,4 @@
 [facebook]: https://www.facebook.com/munna.offical/
 [instagram]: https://www.instagram.com/munna_tunna/
 [linkedin]: https://www.linkedin.com/in/munnaSorder/
+[resume]: https://docs.google.com/document/d/1SUlBBv_CKAoP6MiLiKxI0M9b1vzZCCYQsrHCiJj0-CU/edit?usp=sharing
