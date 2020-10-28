@@ -14,7 +14,6 @@
 [<img align="left" alt="munna-a | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-<br />
 
 ### Others Info:
 
