@@ -17,7 +17,7 @@
 
 ### Others Info:
 
-[<img align="left" alt="munna-a | Resume" width="22px" src="https://i.ibb.co/Mkmms7H/clipart3085721.png" />][resume]
+[<img align="left" alt="munna-a | Resume" width="22px" download="true" src="https://i.ibb.co/Mkmms7H/clipart3085721.png" />][resume]
 
 <br />
 
