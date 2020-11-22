@@ -1,7 +1,6 @@
 ### Hi there, I'm Munna 👋
 
 ## I'm a Front-End Web Developer!!
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=munnaSorder&label=Profile%20views&color=0e75b6&style=flat" alt="munnasorder" /> </p>
 - 🌱 I’m currently learning everything
 - 🥅 Contribute more to Open Source projects
 - ⚡ I always try to do something new
