@@ -1,4 +1,4 @@
-### Hi there, I'm .[Munna].(https://munnaislam.netlify.app/) 👋
+### Hi there, I'm .[Munna].[website] 👋
 
 ## I'm a Front-End Web Developer!!
 - 🌱 I’m currently learning everything
@@ -52,6 +52,7 @@
 
 
 [twitter]: https://twitter.com/munnasorder
+.[website]: https://munnaislam.netlify.app/
 [facebook]: https://www.facebook.com/munnasorderr/
 [instagram]: https://www.instagram.com/munna_tunna/
 [linkedin]: https://www.linkedin.com/in/munnaSorder/
