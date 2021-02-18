@@ -43,9 +43,7 @@
 <br />
 <br />
 <br />
-
 <img width="530px" src="https://github-readme-stats.vercel.app/api?username=munnaSorder&show_icons=true"/>
-
 <br />
   
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=munnaSorder&card_width=530)](https://github.com/munnaSorder)
