@@ -1,4 +1,4 @@
-### Hi there, I'm <span>Munna</span> 👋
+### Hi there, I'm <span style="color:'red'">Munna</span> 👋
 
 ## I'm a Front-End Web Developer!!
 - 🌱 I’m currently learning everything
