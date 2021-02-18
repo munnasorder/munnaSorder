@@ -1,4 +1,4 @@
-### Hi there, I'm .[Munna][website] 👋
+### Hi there, I'm [Munna][website] 👋
 
 ## I'm a Front-End Web Developer!!
 - 🌱 I’m currently learning everything
