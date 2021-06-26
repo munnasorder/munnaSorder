@@ -50,7 +50,7 @@
 
 
 [twitter]: https://twitter.com/munnasorder
-[website]: https://munnaislam.netlify.app/
+[website]: https://munnasorder.netlify.app/
 [facebook]: https://www.facebook.com/munnasorderr/
 [instagram]: https://www.instagram.com/munna_tunna/
 [linkedin]: https://www.linkedin.com/in/munnaSorder/
