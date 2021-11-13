@@ -48,10 +48,8 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=munnaSorder&theme=tokyonight" />
 </p
   
-<!-- <img width="530px" src="https://github-readme-stats.vercel.app/api?username=munnaSorder&show_icons=true"/>
-<br /> -->
   
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=munnaSorder&card_width=530)](https://github.com/munnaSorder)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=munnaSorder&card_width=530&theme=tokyonight)](https://github.com/munnaSorder)
 
 
 [twitter]: https://twitter.com/munnasorder
