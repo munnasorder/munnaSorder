@@ -1,5 +1,12 @@
 ### Hi there, I'm [Munna][website] 👋
 
+<img src="https://profile-counter.glitch.me/munnaSorder/count.svg">
+
+[![GitHub followers](https://img.shields.io/github/followers/munnaSorder.svg?style=social&label=Followers)](https://github.com/munnaSorder?tab=followers)
+
+<img src="https://komarev.com/ghpvc/?username=munnaSorder&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+
+
 ## I'm a Front-End Web Developer!!
 - 🌱 I’m currently learning everything
 - 🥅 Contribute more to Open Source projects
@@ -43,15 +50,25 @@
 <br />
 <br />
 <br />
-<p align="center">
+
+[![Munna's github activity graph](https://activity-graph.herokuapp.com/graph?username=munnaSorder&theme=xcode)](https://git.io/munnaSorder)
+
+<p>
+  
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=munnaSorder&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=munnaSorder&theme=tokyonight" />
+  <img width="48%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=munnaSorder&theme=tokyonight" />
+  
 </p
   
   
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=munnaSorder&card_width=530&theme=tokyonight)](https://github.com/munnaSorder)
-
-
+<div>
+  
+  [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=munnaSorder&theme=tokyonight)](https://github.com/munnaSorder)
+  [![Munna's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=munnasorder&theme=tokyonight)](https://github.com/munnaSorder/github-readme-stats)
+  
+ </div>
+ 
+ 
 [twitter]: https://twitter.com/munnasorder
 [website]: https://munnasorder.netlify.app/
 [facebook]: https://www.facebook.com/munnasorderr/
