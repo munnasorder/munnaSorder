@@ -7,6 +7,8 @@
 <img src="https://komarev.com/ghpvc/?username=munnaSorder&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
 
+[![wakatime](https://wakatime.com/badge/user/caca7555-8ae8-4d36-a932-05615a33c2cd.svg)](https://wakatime.com/@caca7555-8ae8-4d36-a932-05615a33c2cd)
+
 ## I'm a Front-End Web Developer!!
 - 🌱 I’m currently learning everything
 - 🥅 Contribute more to Open Source projects
