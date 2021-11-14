@@ -59,15 +59,15 @@
   <img width="48%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=munnaSorder&theme=tokyonight" />
   
 </p
-  
-  
-<div>
-  
-  [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=munnaSorder&theme=tokyonight)](https://github.com/munnaSorder)
-  [![Munna's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=munnasorder&theme=tokyonight)](https://github.com/munnaSorder)
-  
- </div>
  
+<p >
+  
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=munnaSorder&layout=compact&theme=tokyonight&hide_border=true" />
+  <img  align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=munnasorder&theme=tokyonight" />
+  
+</p
+  
+
  
 [twitter]: https://twitter.com/munnasorder
 [website]: https://munnasorder.netlify.app/
