@@ -64,7 +64,7 @@
 <div>
   
   [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=munnaSorder&theme=tokyonight)](https://github.com/munnaSorder)
-  [![Munna's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=munnasorder&theme=tokyonight)](https://github.com/munnaSorder/github-readme-stats)
+  [![Munna's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=munnasorder&theme=tokyonight)](https://github.com/munnaSorder)
   
  </div>
  
