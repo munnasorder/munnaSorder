@@ -74,8 +74,6 @@
 <!-- <P align="center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=munnasorder&theme=tokyonight" />
 </p> -->
-
-<p align="center">
 	
 <h3>📊 **Weekly development breakdown**</h3>
 
@@ -88,8 +86,6 @@ Git Config   4 mins          ▓░░░░░░░░░░░░░░░░
 TypeScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 ```
 <!--END_SECTION:waka-->	
-
-</p>
 
 <p>
   
