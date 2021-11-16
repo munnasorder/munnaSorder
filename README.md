@@ -13,11 +13,9 @@
 - 🌱 I’m currently learning everything
 - 🥅 Contribute more to Open Source projects
 - ⚡ I always try to do something new
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munnaSorder&layout=compact&theme=tokyonight&hide_border=true" />  
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munnaSorder&layout=compact&theme=tokyonight&hide_border=true" />
+  
 ### Connect with me:
-
 <p align="center">
 	<a href="https://www.linkedin.com/in/munnasorder/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -93,7 +91,13 @@ TypeScript   1 min           ▒░░░░░░░░░░░░░░░░
   <img width="48%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=munnaSorder&theme=tokyonight" />
   
 </p
- 
+
+<p>
+	
+<img width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+	
+</p>
+	
 [twitter]: https://twitter.com/munnasorder
 [website]: https://munnasorder.netlify.app/
 [facebook]: https://www.facebook.com/munnasorderr/
