@@ -77,8 +77,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 34 hrs 19 mins
-
 JavaScript   27 hrs 19 mins  ██████████████████▒░░░░░░   73.52 % 
 CSS          6 hrs 24 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.27 % 
 Other        2 hrs 49 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
