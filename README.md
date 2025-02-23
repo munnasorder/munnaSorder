@@ -78,8 +78,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   14 mins         █████████████████████▓░░░   86.27 %
-JSON         2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.73 %
+JavaScript   6 mins          ██████████████████▓░░░░░░   74.65 %
+JSON         2 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.35 %
 ```
 
 <!--END_SECTION:waka-->	
